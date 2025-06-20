@@ -92,4 +92,6 @@ Digital Payment Preference: Majority of customers preferred UPI payments, hintin
 
 ### 6.	Screenshots / Demos
 Show what the dashboard looks like. - ![Alt text](https://github.com/username/repo/assets/image.png)
-Example: ![Dashboard Preview](https://github.com/the-mansi-goel/Ski-dashboard/blob/main/Snapshot%20of%20the%20Dahbaord.png)
+[Dashboard For Mobile Sales of Company X](https://github.com/Arambh12/Mobile-Sales-Dashboard-for-Company-X-Power-BI-/blob/main/DASHBOARD%20FOR%20MOBILE%20SALES%20OF%20COMPANY%20X.PNG)
+[MTD, YTD & QTD Report Analysis](https://github.com/Arambh12/Mobile-Sales-Dashboard-for-Company-X-Power-BI-/blob/main/DASHBOARD%20FOR%20MOBILE%20SALES%20OF%20COMPANY%20X.PNG)
+[Same Period Last Year Analysis](https://github.com/Arambh12/Mobile-Sales-Dashboard-for-Company-X-Power-BI-/blob/main/DASHBOARD%20FOR%20MOBILE%20SALES%20OF%20COMPANY%20X.PNG)
